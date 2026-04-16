@@ -52,6 +52,4 @@ https://notebooklm.google.com/notebook/1209ad3b-4288-4f33-9509-3224e37dcc17
 Saúde Mental na Juventude: Panorama Epidemiológico, Impactos Digitais e a Perspectiva Estoica
 https://notebooklm.google.com/notebook/1209ad3b-4288-4f33-9509-3224e37dcc17/artifact/a6f1829f-807b-475d-9ed6-b9b40e61b504
 
->PROMPTS
 
-Crie uma síntese informativa detalhada em português que compile os achados das fontes sobre a saúde mental de jovens e adolescentes. O documento deve cobrir a prevalência de transtornos mentais no Brasil e no mundo (como depressão, ansiedade e transtornos alimentares), os impactos específicos das redes sociais e da pandemia de COVID-19, além de abordar fatores de risco e de proteção como a resiliência. Inclua também a perspectiva filosófica sobre a natureza humana e a razão extraída das 'Inferências à Lucílio'. Organize o conteúdo de forma temática e educativa.
