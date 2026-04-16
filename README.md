@@ -27,7 +27,7 @@ https://www.unicef.org/brazil/comunicados-de-imprensa/impacto-da-covid-19-na-sau
 -O transtorno alimentar e seus fatores nas adolescentes
 [43688](https://rsdjournal.org/rsd/article/view/43688/35147)
 
--Pesquisa mostra que mais de 50% dos jovens LGBTQA+ sofrem de ansiedade, depressão ou estresse pós-traumático
+- Pesquisa mostra que mais de 50% dos jovens LGBTQA+ sofrem de ansiedade, depressão ou estresse pós-traumático
 https://www.hcpa.edu.br/2123-pesquisa-mostra-que-mais-de-50-dos-jovens-lgbtqa-sofre-de-ansiedade-depressao-ou-estresse-pos-traumatico
 ==================================
 
